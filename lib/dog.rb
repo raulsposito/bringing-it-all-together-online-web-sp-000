@@ -37,7 +37,6 @@ class Dog
       end
       self
     end
-
   end
 
 end
